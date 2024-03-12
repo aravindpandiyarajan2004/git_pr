@@ -2,7 +2,11 @@ public Calculator{
   //ani
   //aravind
   //velan
-  //vicky
+  String Name{
+    String fn="Velan";
+    String ln="chelladurai";
+    return fn+" "+ln;
+  }
   //prabha
 
   
